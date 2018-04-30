@@ -2,20 +2,155 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e273469e-acc5-49f2-b4c2-942fb32681aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d6/ClassDemo_04.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d6/ClassDemo_05.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d7/TraitDemo_01.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d7/TraitDemo_02.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d7/TraitDemo_03.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d7/TraitDemo_04.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_01.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_02.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_03.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_04.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_03$.class" afterPath="$PROJECT_DIR$/target/classes/d6/ClassDemo_03$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_12_2_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_12_2_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_remote_2_12_2_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_12_2_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_12_0_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_aeron_aeron_client_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_aeron_aeron_driver_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_agrona_agrona_0_9_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d10/RemoteMessage.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d10/Worker.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d10/WorkerInfo.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_06.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_01.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_02.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_03.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_04.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_05.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/d9/MyPredef.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/ForDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/ForDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/IfDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/IfDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/PrintDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/PrintDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/VariableDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/VariableDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/WhileDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d1/WhileDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d2/FunctionDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d2/FunctionDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d2/MethodDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d2/MethodDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d2/MethodToFunctionDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d2/MethodToFunctionDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/ArrayDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/ArrayDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/ListDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/ListDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/MapDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/MapDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/SetDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/SetDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/TupleDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d3/TupleDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d4/MatchDemo$$anonfun$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d4/MatchDemo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d4/MatchDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ClassDemo_01$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ClassDemo_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ClassDemo_02$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ClassDemo_02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/MyArray$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/MyArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/MyEnum$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/MyEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_03$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_03_03$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_03_03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_04$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_04_04$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_04_04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_05$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_05.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_06$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_06$delayedInit$body.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_06.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_07$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_07.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_08$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_08.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_09$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/ObjectDemo_09.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/Person08$Student08.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/Person08.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/Student09$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/Student09.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/cls$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d5/cls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Animal05.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_01_01$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_01_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_02$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_03$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_04$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_05$$anon$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_05$$anon$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_05$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/ClassDemo_05.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Person03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Person04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Person05.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Person05_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Student03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Student04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d6/Teacher03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/Baby$$anon$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/Baby$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/Baby.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/Person04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/Student04$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/Student04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo002.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo01_01$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo01_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_001.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_002$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_002.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_01_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_04_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d7/TraitDemo_04_02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/ClassDemo_01$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/ClassDemo_01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/ClassDemo_02$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/ClassDemo_02.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/ClassDemo_04$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/ClassDemo_04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/Master.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/Professor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/Teacher04.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/ClassDemo_03$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/ClassDemo_03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/Person03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/Student03.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/d8/d8/Teacher03.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-demo.iml" afterPath="$PROJECT_DIR$/scala-demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala" afterPath="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala" />
     </list>
     <ignored path="scala-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,12 +173,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ClassDemo_05.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala">
+      <file leaf-file-name="Master.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/d10/Master.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="231">
+              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+              <folding>
+                <element signature="e#13#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Worker.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/d10/Worker.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#13#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,11 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/scala/VariableDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/IfDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/ForDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/WhileDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PrintDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/d1/WhileDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/d2/MethodDemo.scala" />
@@ -111,6 +255,20 @@
         <option value="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_03.java" />
         <option value="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_03.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d8/T.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/d8/ClassDemo_06.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_01.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_02.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_03.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d9/MyPredef.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_05.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/d10/RemoteMessage.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d10/WorkerInfo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d10/Master.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/d10/Worker.scala" />
       </list>
     </option>
   </component>
@@ -137,10 +295,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="663" />
-    <option name="y" value="299" />
-    <option name="width" value="1123" />
-    <option name="height" value="775" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -168,7 +326,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,8 +381,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="d8" />
+              <option name="myItemId" value="d10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Worker.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Master.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -269,7 +487,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,15 +497,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="Application.ClassDemo_04">
-    <configuration default="false" name="Student04" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Worker">
+    <configuration default="false" name="ImplicitDemo_03" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="d7.*" />
+          <option name="PATTERN" value="d9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="d7.Student04" />
+      <option name="MAIN_CLASS_NAME" value="d9.ImplicitDemo_03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -300,14 +518,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ClassDemo_01" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="ImplicitDemo_04" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="d8.*" />
+          <option name="PATTERN" value="d9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="d8.ClassDemo_01" />
+      <option name="MAIN_CLASS_NAME" value="d9.ImplicitDemo_04" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -320,14 +538,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ClassDemo_02" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="ImplicitDemo_05" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="d8.*" />
+          <option name="PATTERN" value="d9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="d8.ClassDemo_02" />
+      <option name="MAIN_CLASS_NAME" value="d9.ImplicitDemo_05" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -340,14 +558,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ClassDemo_03" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Master" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="d8.d8.*" />
+          <option name="PATTERN" value="d10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="d8.d8.ClassDemo_03" />
+      <option name="MAIN_CLASS_NAME" value="d10.Master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -360,14 +578,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ClassDemo_04" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Worker" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="d8.*" />
+          <option name="PATTERN" value="d10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="d8.ClassDemo_04" />
+      <option name="MAIN_CLASS_NAME" value="d10.Worker" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -879,19 +1097,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Student04" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ClassDemo_01" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ClassDemo_02" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ClassDemo_03" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ClassDemo_04" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ImplicitDemo_03" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ImplicitDemo_04" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ImplicitDemo_05" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Master" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Worker" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ClassDemo_04" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ClassDemo_03" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ClassDemo_02" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ClassDemo_01" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Student04" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Worker" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Master" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ImplicitDemo_05" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ImplicitDemo_04" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ImplicitDemo_03" />
       </list>
     </recent_temporary>
   </component>
@@ -923,12 +1141,14 @@
       <workItem from="1524571042667" duration="5480000" />
       <workItem from="1524577184005" duration="3694000" />
       <workItem from="1524665141851" duration="3123000" />
-      <workItem from="1524916678100" duration="631000" />
+      <workItem from="1524916678100" duration="5891000" />
+      <workItem from="1524963281280" duration="8654000" />
+      <workItem from="1525048848588" duration="4970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67859000" />
+    <option name="totallyTimeSpent" value="86743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -940,21 +1160,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="663" y="299" width="1123" height="775" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3016627" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26334518" sideWeight="0.504" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53565216" sideWeight="0.496" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53325415" sideWeight="0.496" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24734299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22599784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -965,7 +1186,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1017,114 +1237,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d2/FunctionDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d3/ArrayDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d2/MethodToFunctionDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/VariableDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/IfDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/test.scala" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.5/scala-library-2.12.5.jar!/scala/runtime/RichInt.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="5" column="65" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/ForDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/IfDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/PrintDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/VariableDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d1/WhileDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d2/MethodDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3162">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d2/MethodToFunctionDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/d2/test.html" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/d2/FunctionDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -1348,15 +1460,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d8/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="5" column="79" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d8/ClassDemo_06.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.5/scala-library-2.12.5.jar!/scala/math/Ordered.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.5/scala-library-2.12.5.jar!/scala/package.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d9/MyPredef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d9/ImplicitDemo_05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/d8/ClassDemo_05.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d10/RemoteMessage.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="532">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.12/2.5.11/akka-actor_2.12-2.5.11.jar!/akka/actor/Scheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="345" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="345" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d10/WorkerInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d10/Worker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/d10/Master.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+          <folding>
+            <element signature="e#13#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
